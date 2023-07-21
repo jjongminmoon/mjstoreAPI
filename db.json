@@ -9,7 +9,8 @@
       "category": "shoes",
       "releaseDate": "20230313",
       "modelNumber": "1201A822-103",
-      "image": "https://img.soldout.co.kr/items/2023/03/13/731a8d56-5a1b-41b3-b0f1-cb5db9be6e48.png/soldout/resize/750x750/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/03/13/731a8d56-5a1b-41b3-b0f1-cb5db9be6e48.png/soldout/resize/750x750/optimize",
+      "salesVolume": 123
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "category": "shoes",
       "releaseDate": "20230313",
       "modelNumber": "1201A822-102",
-      "image": "https://img.soldout.co.kr/items/2023/03/13/a93d5408-237b-4054-ac56-4ca76c4592b8.png/soldout/resize/750x750/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/03/13/a93d5408-237b-4054-ac56-4ca76c4592b8.png/soldout/resize/750x750/optimize",
+      "salesVolume": 200
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
       "category": "shoes",
       "modelNumber": "SD3205IV2",
       "releaseDate": "20230313",
-      "image": "https://img.soldout.co.kr/items/2023/03/13/28008502-e502-46c0-a6f6-c5a348757704.png/soldout/resize/750x750/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/03/13/28008502-e502-46c0-a6f6-c5a348757704.png/soldout/resize/750x750/optimize",
+      "salesVolume": 240
     },
     {
       "id": 4,
@@ -42,7 +45,8 @@
       "category": "shoes",
       "modelNumber": "-",
       "releaseDate": "20230315",
-      "image": "https://img.soldout.co.kr/items/2023/02/16/e6789a2a-49af-4baa-a09e-db6caa352a89.png/soldout/resize/750x750/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/02/16/e6789a2a-49af-4baa-a09e-db6caa352a89.png/soldout/resize/750x750/optimize",
+      "salesVolume": 500
     },
     {
       "id": 5,
@@ -53,7 +57,8 @@
       "category": "shoes",
       "modelNumber": "-",
       "releaseDate": "20230315",
-      "image": "https://img.soldout.co.kr/items/2023/02/16/31283caf-ab0e-465a-a023-5e0cf7162a5c.png/soldout/resize/750x750/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/02/16/31283caf-ab0e-465a-a023-5e0cf7162a5c.png/soldout/resize/750x750/optimize",
+      "salesVolume": 14
     },
     {
       "id": 6,
@@ -64,7 +69,8 @@
       "category": "shoes",
       "modelNumber": "1201A019-401",
       "releaseDate": "20230313",
-      "image": "https://img.soldout.co.kr/items/2023/03/15/87b9b799-debc-44c3-a0f5-25c25eeafd5f.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/03/15/87b9b799-debc-44c3-a0f5-25c25eeafd5f.png/soldout/resize/564x564/optimize",
+      "salesVolume": 30
     },
     {
       "id": 7,
@@ -75,7 +81,8 @@
       "category": "shoes",
       "modelNumber": "1202A486-001",
       "releaseDate": "20230315",
-      "image": "https://img.soldout.co.kr/items/2023/03/13/78ddcdc0-ae12-47ff-a166-7cf037a37a41.png/soldout/resize/750x750/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/03/13/78ddcdc0-ae12-47ff-a166-7cf037a37a41.png/soldout/resize/750x750/optimize",
+      "salesVolume": 621
     },
     {
       "id": 8,
@@ -86,7 +93,8 @@
       "category": "shoes",
       "modelNumber": "1202A487-020",
       "releaseDate": "20230315",
-      "image": "https://img.soldout.co.kr/items/2023/03/13/74b2ffb9-5a4f-4c96-abfd-bf64cb33c184.png/soldout/resize/750x750/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/03/13/74b2ffb9-5a4f-4c96-abfd-bf64cb33c184.png/soldout/resize/750x750/optimize",
+      "salesVolume": 120
     },
     {
       "id": 9,
@@ -97,7 +105,8 @@
       "category": "shoes",
       "modelNumber": "1202A461-300",
       "releaseDate": "20230315",
-      "image": "https://img.soldout.co.kr/items/2023/03/13/fa35cc88-ad0f-4a46-b7a0-8ae741ac0a30.png/soldout/resize/750x750/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/03/13/fa35cc88-ad0f-4a46-b7a0-8ae741ac0a30.png/soldout/resize/750x750/optimize",
+      "salesVolume": 102
     },
     {
       "id": 10,
@@ -108,7 +117,8 @@
       "category": "shoes",
       "modelNumber": "BQ4422-001",
       "releaseDate": "20230215",
-      "image": "https://img.soldout.co.kr/items/2023/02/21/dfedaf12-64bd-4727-a298-ad4042c16868.png/soldout/resize/1125x1125/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/02/21/dfedaf12-64bd-4727-a298-ad4042c16868.png/soldout/resize/1125x1125/optimize",
+      "salesVolume": 588
     },
     {
       "id": 11,
@@ -119,7 +129,8 @@
       "category": "shoes",
       "modelNumber": "DZ5485-612",
       "releaseDate": "20221201",
-      "image": "https://img.soldout.co.kr/items/2022/12/06/373aee00-edc1-493c-83f5-c322afa68abd.png/soldout/resize/1125x1125/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/12/06/373aee00-edc1-493c-83f5-c322afa68abd.png/soldout/resize/1125x1125/optimize",
+      "salesVolume": 911
     },
     {
       "id": 12,
@@ -130,7 +141,8 @@
       "category": "shoes",
       "modelNumber": "DD9315-002",
       "releaseDate": "20220113",
-      "image": "https://img.soldout.co.kr/items/2022/11/28/3ad09337-c691-4ebe-bb2e-a4c7ff1f8155.png/soldout/resize/1125x1125/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/11/28/3ad09337-c691-4ebe-bb2e-a4c7ff1f8155.png/soldout/resize/1125x1125/optimize",
+      "salesVolume": 1203
     },
     {
       "id": 13,
@@ -141,7 +153,8 @@
       "category": "shoes",
       "modelNumber": "CU1726-100",
       "releaseDate": "20221107",
-      "image": "https://img.soldout.co.kr/items/2022/11/30/1f65bc7c-42fc-4a51-8db1-8b27b13da42e.png/soldout/resize/1125x1125/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/11/30/1f65bc7c-42fc-4a51-8db1-8b27b13da42e.png/soldout/resize/1125x1125/optimize",
+      "salesVolume": 2102
     },
     {
       "id": 14,
@@ -152,7 +165,8 @@
       "category": "shoes",
       "modelNumber": "DD1391-400",
       "releaseDate": "20220430",
-      "image": "https://img.soldout.co.kr/items/2022/12/26/2272e650-8975-4335-8f97-e7af22345849.png/soldout/resize/1125x1125/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/12/26/2272e650-8975-4335-8f97-e7af22345849.png/soldout/resize/1125x1125/optimize",
+      "salesVolume": 564
     },
     {
       "id": 15,
@@ -163,7 +177,8 @@
       "category": "shoes",
       "modelNumber": "DD1391-100",
       "releaseDate": "20210402",
-      "image": "https://img.soldout.co.kr/items/2022/11/04/a8844295-e714-4fb6-92eb-9fa7b613e94e.png/soldout/resize/1125x1125/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/11/04/a8844295-e714-4fb6-92eb-9fa7b613e94e.png/soldout/resize/1125x1125/optimize",
+      "salesVolume": 5333
     },
     {
       "id": 16,
@@ -174,7 +189,8 @@
       "category": "shoes",
       "modelNumber": "DQ0581-001",
       "releaseDate": "20221223",
-      "image": "https://img.soldout.co.kr/items/2022/12/28/f59603bf-7d6f-44d4-8a5c-0461899ca821.png/soldout/resize/1125x1125/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/12/28/f59603bf-7d6f-44d4-8a5c-0461899ca821.png/soldout/resize/1125x1125/optimize",
+      "salesVolume": 11
     },
     {
       "id": 17,
@@ -185,7 +201,8 @@
       "category": "shoes",
       "modelNumber": "DM7866-140",
       "releaseDate": "20210813",
-      "image": "https://img.soldout.co.kr/items/2022/11/04/8c8a1903-d6b2-4777-9ac2-08db34fce123.png/soldout/resize/1125x1125/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/11/04/8c8a1903-d6b2-4777-9ac2-08db34fce123.png/soldout/resize/1125x1125/optimize",
+      "salesVolume": 54
     },
     {
       "id": 18,
@@ -196,7 +213,8 @@
       "category": "shoes",
       "modelNumber": "B37571",
       "releaseDate": "20171216",
-      "image": "https://img.soldout.co.kr/items/2022/11/04/0bdda20c-9473-441d-bd0b-102681515d7b.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/11/04/0bdda20c-9473-441d-bd0b-102681515d7b.png/soldout/resize/564x564/optimize",
+      "salesVolume": 500
     },
     {
       "id": 19,
@@ -207,7 +225,8 @@
       "category": "shoes",
       "modelNumber": "HQ6448",
       "releaseDate": "20220307",
-      "image": "https://img.soldout.co.kr/items/2023/03/09/9cb32233-79bd-4c20-bb3c-43a241d583ea.png/soldout/resize/1125x1125/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/03/09/9cb32233-79bd-4c20-bb3c-43a241d583ea.png/soldout/resize/1125x1125/optimize",
+      "salesVolume": 12
     },
     {
       "id": 20,
@@ -218,7 +237,8 @@
       "category": "shoes",
       "modelNumber": "H01878",
       "releaseDate": "20210616",
-      "image": "https://img.soldout.co.kr/items/2023/01/30/a7cf6885-bb4e-47a3-ae2f-ac3412a12916.png/soldout/resize/1125x1125/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/01/30/a7cf6885-bb4e-47a3-ae2f-ac3412a12916.png/soldout/resize/1125x1125/optimize",
+      "salesVolume": 132
     },
     {
       "id": 21,
@@ -229,7 +249,8 @@
       "category": "shoes",
       "modelNumber": "MR530TG",
       "releaseDate": "20230223",
-      "image": "https://img.soldout.co.kr/items/2023/03/07/70c4e934-71fe-4479-9611-d4527d9dfaf0.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/03/07/70c4e934-71fe-4479-9611-d4527d9dfaf0.png/soldout/resize/564x564/optimize",
+      "salesVolume": 343
     },
     {
       "id": 22,
@@ -240,7 +261,8 @@
       "category": "shoes",
       "modelNumber": "ML2002R0",
       "releaseDate": "20210208",
-      "image": "https://img.soldout.co.kr/items/2023/02/06/4185c357-fea4-4e57-a7ad-9e807e35b06e.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/02/06/4185c357-fea4-4e57-a7ad-9e807e35b06e.png/soldout/resize/564x564/optimize",
+      "salesVolume": 103
     },
     {
       "id": 23,
@@ -251,7 +273,8 @@
       "category": "clothes",
       "modelNumber": "DO5310-010",
       "releaseDate": "20230213",
-      "image": "https://img.soldout.co.kr/items/2023/02/07/e914b75c-8461-4ac9-aab3-c04159990650.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/02/07/e914b75c-8461-4ac9-aab3-c04159990650.png/soldout/resize/564x564/optimize",
+      "salesVolume": 432
     },
     {
       "id": 24,
@@ -262,7 +285,8 @@
       "category": "clothes",
       "modelNumber": "DO5296-010",
       "releaseDate": "20230213",
-      "image": "https://img.soldout.co.kr/items/2023/02/07/53a30306-b55f-4c98-a5ff-99a8393471ae.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/02/07/53a30306-b55f-4c98-a5ff-99a8393471ae.png/soldout/resize/564x564/optimize",
+      "salesVolume": 132
     },
     {
       "id": 25,
@@ -273,7 +297,8 @@
       "category": "clothes",
       "modelNumber": "DQ5011-010",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2023/02/10/304866b8-8f93-4cdd-a54f-54fdd2a8e659.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/02/10/304866b8-8f93-4cdd-a54f-54fdd2a8e659.png/soldout/resize/564x564/optimize",
+      "salesVolume": 222
     },
     {
       "id": 26,
@@ -284,7 +309,8 @@
       "category": "clothes",
       "modelNumber": "HI3886_JME86",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/external_image/2022/11/09/5a968cce-99d8-46f4-8e3f-9708e3e872fe.jpg/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/external_image/2022/11/09/5a968cce-99d8-46f4-8e3f-9708e3e872fe.jpg/soldout/resize/564x564/optimize",
+      "salesVolume": 321
     },
     {
       "id": 27,
@@ -295,7 +321,8 @@
       "category": "clothes",
       "modelNumber": "HA9998",
       "releaseDate": "20210807",
-      "image": "https://img.soldout.co.kr/items/2021/08/27/89daa14d-e390-4069-8b51-d01262f189f2.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2021/08/27/89daa14d-e390-4069-8b51-d01262f189f2.png/soldout/resize/564x564/optimize",
+      "salesVolume": 11
     },
     {
       "id": 28,
@@ -306,7 +333,8 @@
       "category": "clothes",
       "modelNumber": "-",
       "releaseDate": "20220916",
-      "image": "https://img.soldout.co.kr/items/2022/09/15/506a9f57-96fe-4a01-b94e-b7d22f6a548b.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/09/15/506a9f57-96fe-4a01-b94e-b7d22f6a548b.png/soldout/resize/564x564/optimize",
+      "salesVolume": 12
     },
     {
       "id": 29,
@@ -317,7 +345,8 @@
       "category": "clothes",
       "modelNumber": "NBNVC2L023-64",
       "releaseDate": "20220314",
-      "image": "https://img.soldout.co.kr/items/2022/03/11/00403f6e-80a5-4ab7-acbe-c41160802b53.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/03/11/00403f6e-80a5-4ab7-acbe-c41160802b53.png/soldout/resize/564x564/optimize",
+      "salesVolume": 14
     },
     {
       "id": 30,
@@ -328,7 +357,8 @@
       "category": "clothes",
       "modelNumber": "NBNVC2L023-19",
       "releaseDate": "20220314",
-      "image": "https://img.soldout.co.kr/items/2022/03/11/5d160ac0-8bf5-4b5c-9599-0fb916aa58e7.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/03/11/5d160ac0-8bf5-4b5c-9599-0fb916aa58e7.png/soldout/resize/564x564/optimize",
+      "salesVolume": 1
     },
     {
       "id": 31,
@@ -339,7 +369,8 @@
       "category": "clothes",
       "modelNumber": "-",
       "releaseDate": "20220916",
-      "image": "https://img.soldout.co.kr/items/2022/09/15/7dda69c5-e642-47e2-aad1-f6f8b5eae868.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/09/15/7dda69c5-e642-47e2-aad1-f6f8b5eae868.png/soldout/resize/564x564/optimize",
+      "salesVolume": 13
     },
     {
       "id": 32,
@@ -350,7 +381,8 @@
       "category": "clothes",
       "modelNumber": "-",
       "releaseDate": "20220916",
-      "image": "https://img.soldout.co.kr/items/2022/09/15/e6fd32bc-49d0-4b74-a7da-05acbf57dda9.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/09/15/e6fd32bc-49d0-4b74-a7da-05acbf57dda9.png/soldout/resize/564x564/optimize",
+      "salesVolume": 12
     },
     {
       "id": 33,
@@ -361,7 +393,8 @@
       "category": "acc",
       "modelNumber": "913011-010",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2021/08/09/a79bbe5c-d084-4cd2-9540-59859bcbb011.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2021/08/09/a79bbe5c-d084-4cd2-9540-59859bcbb011.png/soldout/resize/564x564/optimize",
+      "salesVolume": 30
     },
     {
       "id": 34,
@@ -372,7 +405,8 @@
       "category": "acc",
       "modelNumber": "913011-413",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2023/02/20/43a51122-bca6-4ea7-aba0-28c27738f855.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/02/20/43a51122-bca6-4ea7-aba0-28c27738f855.png/soldout/resize/564x564/optimize",
+      "salesVolume": 22
     },
     {
       "id": 35,
@@ -383,7 +417,8 @@
       "category": "acc",
       "modelNumber": "-",
       "releaseDate": "20220916",
-      "image": "https://img.soldout.co.kr/items/2022/09/15/f2c3b5e0-2b51-4e40-9750-198591a93502.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/09/15/f2c3b5e0-2b51-4e40-9750-198591a93502.png/soldout/resize/564x564/optimize",
+      "salesVolume": 29
     },
     {
       "id": 36,
@@ -394,7 +429,8 @@
       "category": "acc",
       "modelNumber": "NBGDBAC107_19",
       "releaseDate": "20220210",
-      "image": "https://img.soldout.co.kr/items/2022/02/10/abf7adc3-237e-4601-8517-7c6718556845.png/soldout/resize/564x564/optimize "
+      "image": "https://img.soldout.co.kr/items/2022/02/10/abf7adc3-237e-4601-8517-7c6718556845.png/soldout/resize/564x564/optimize ",
+      "salesVolume": 32
     },
     {
       "id": 37,
@@ -405,7 +441,8 @@
       "category": "acc",
       "modelNumber": "CZ1521-010",
       "releaseDate": "20200327",
-      "image": "https://img.soldout.co.kr/items/2020/10/28/item-3834-main.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2020/10/28/item-3834-main.png/soldout/resize/564x564/optimize",
+      "salesVolume": 90
     },
     {
       "id": 38,
@@ -416,7 +453,8 @@
       "category": "acc",
       "modelNumber": "DC9865-010",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2022/04/04/97f105f9-db87-49d3-a4c0-565fe029469b.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/04/04/97f105f9-db87-49d3-a4c0-565fe029469b.png/soldout/resize/564x564/optimize",
+      "salesVolume": 112
     },
     {
       "id": 39,
@@ -427,7 +465,8 @@
       "category": "tech",
       "modelNumber": "MPXV3KH/A",
       "releaseDate": "20221007",
-      "image": "https://img.soldout.co.kr/items/2022/10/04/aaf8cf47-44a3-4cbb-a551-bd41fe703c1c.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/10/04/aaf8cf47-44a3-4cbb-a551-bd41fe703c1c.png/soldout/resize/564x564/optimize",
+      "salesVolume": 888
     },
     {
       "id": 40,
@@ -438,7 +477,8 @@
       "category": "tech",
       "modelNumber": "MQ103KH/A",
       "releaseDate": "20221007",
-      "image": "https://img.soldout.co.kr/items/2022/10/04/7c6d0b5d-dc8d-4813-bf72-178146018d92.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/10/04/7c6d0b5d-dc8d-4813-bf72-178146018d92.png/soldout/resize/564x564/optimize",
+      "salesVolume": 250
     },
     {
       "id": 41,
@@ -449,7 +489,8 @@
       "category": "tech",
       "modelNumber": "0",
       "releaseDate": "20230314",
-      "image": "https://img.soldout.co.kr/items/2023/03/10/d37d1f8d-9e78-4136-999f-5f98feea9b3c.png/soldout/resize/750x750/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/03/10/d37d1f8d-9e78-4136-999f-5f98feea9b3c.png/soldout/resize/750x750/optimize",
+      "salesVolume": 100
     },
     {
       "id": 42,
@@ -460,7 +501,8 @@
       "category": "tech",
       "modelNumber": "0",
       "releaseDate": "20230314",
-      "image": "https://img.soldout.co.kr/items/2023/03/10/d37d1f8d-9e78-4136-999f-5f98feea9b3c.png/soldout/resize/750x750/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/03/10/d37d1f8d-9e78-4136-999f-5f98feea9b3c.png/soldout/resize/750x750/optimize",
+      "salesVolume": 133
     },
     {
       "id": 43,
@@ -471,7 +513,8 @@
       "category": "tech",
       "modelNumber": "MGYJ3KH/A",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2021/09/09/9d5ba4f7-7e21-4414-a64a-77cae13fb5c0.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2021/09/09/9d5ba4f7-7e21-4414-a64a-77cae13fb5c0.png/soldout/resize/564x564/optimize",
+      "salesVolume": 121
     },
     {
       "id": 44,
@@ -482,7 +525,8 @@
       "category": "tech",
       "modelNumber": "MQD83KH/A",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2022/10/06/9b9bdf2a-558d-436c-9dad-9799a269223c.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/10/06/9b9bdf2a-558d-436c-9dad-9799a269223c.png/soldout/resize/564x564/optimize",
+      "salesVolume": 1333
     },
     {
       "id": 45,
@@ -493,7 +537,8 @@
       "category": "acc",
       "modelNumber": "0973537003",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2022/08/10/e7e02e19-a7bb-47fb-b7ee-7157252ed596.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/08/10/e7e02e19-a7bb-47fb-b7ee-7157252ed596.png/soldout/resize/564x564/optimize",
+      "salesVolume": 12
     },
     {
       "id": 46,
@@ -504,7 +549,8 @@
       "category": "acc",
       "modelNumber": "0916460003",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2022/08/10/c9b543ec-b091-4743-9ac4-72f9fb778194.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/08/10/c9b543ec-b091-4743-9ac4-72f9fb778194.png/soldout/resize/564x564/optimize",
+      "salesVolume": 40
     },
     {
       "id": 47,
@@ -515,7 +561,8 @@
       "category": "acc",
       "modelNumber": "0916460009",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2022/08/10/108c016f-389f-4aea-859d-a62bf5be669b.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/08/10/108c016f-389f-4aea-859d-a62bf5be669b.png/soldout/resize/564x564/optimize",
+      "salesVolume": 43
     },
     {
       "id": 48,
@@ -526,7 +573,8 @@
       "category": "acc",
       "modelNumber": "DQ5804-010",
       "releaseDate": "20220929",
-      "image": "https://img.soldout.co.kr/items/2022/10/04/80b0190f-13f9-4c25-bf03-a74fb4d51115.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/10/04/80b0190f-13f9-4c25-bf03-a74fb4d51115.png/soldout/resize/564x564/optimize",
+      "salesVolume": 32
     },
     {
       "id": 49,
@@ -537,7 +585,8 @@
       "category": "acc",
       "modelNumber": "CV8961-011",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2020/12/11/3c5f330f-3d36-46e8-aed2-ad8102e5dc89.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2020/12/11/3c5f330f-3d36-46e8-aed2-ad8102e5dc89.png/soldout/resize/564x564/optimize",
+      "salesVolume": 84
     },
     {
       "id": 50,
@@ -548,7 +597,8 @@
       "category": "acc",
       "modelNumber": "DD9240-100",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2020/12/16/0543655f-6acc-4572-b2ac-189fa8e486df.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2020/12/16/0543655f-6acc-4572-b2ac-189fa8e486df.png/soldout/resize/564x564/optimize",
+      "salesVolume": 21
     },
     {
       "id": 51,
@@ -559,7 +609,8 @@
       "category": "acc",
       "modelNumber": "DC3965-010",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2021/04/12/b28aa96f-dc33-4263-8205-b369b4307019.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2021/04/12/b28aa96f-dc33-4263-8205-b369b4307019.png/soldout/resize/564x564/optimize",
+      "salesVolume": 32
     },
     {
       "id": 52,
@@ -570,7 +621,8 @@
       "category": "acc",
       "modelNumber": "-",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2022/07/05/04edc10d-d9c0-4ec4-ba24-2c7e31b2b32f.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/07/05/04edc10d-d9c0-4ec4-ba24-2c7e31b2b32f.png/soldout/resize/564x564/optimize",
+      "salesVolume": 43
     },
     {
       "id": 53,
@@ -581,7 +633,8 @@
       "category": "clothes",
       "modelNumber": "DN1705-247",
       "releaseDate": "20221221",
-      "image": "https://img.soldout.co.kr/items/2022/12/15/c5bb65e7-27dd-4207-90a9-3456ee2bf519.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/12/15/c5bb65e7-27dd-4207-90a9-3456ee2bf519.png/soldout/resize/564x564/optimize",
+      "salesVolume": 122
     },
     {
       "id": 54,
@@ -592,7 +645,8 @@
       "category": "clothes",
       "modelNumber": "AR3133-010",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2021/06/22/a87adcf7-3507-4ed2-94c8-97328e075cf3.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2021/06/22/a87adcf7-3507-4ed2-94c8-97328e075cf3.png/soldout/resize/564x564/optimize",
+      "salesVolume": 32
     },
     {
       "id": 55,
@@ -603,7 +657,8 @@
       "category": "clothes",
       "modelNumber": "DA0316-010",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/items/2021/03/10/f6b1f34e-72c2-4bfb-962e-cf3662359c3d.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2021/03/10/f6b1f34e-72c2-4bfb-962e-cf3662359c3d.png/soldout/resize/564x564/optimize",
+      "salesVolume": 54
     },
     {
       "id": 56,
@@ -614,7 +669,8 @@
       "category": "clothes",
       "modelNumber": "CW2347",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/external_image/2022/11/10/3116cbb1-1a8a-4e8f-ae88-c48c27a4ac51.jpg/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/external_image/2022/11/10/3116cbb1-1a8a-4e8f-ae88-c48c27a4ac51.jpg/soldout/resize/564x564/optimize",
+      "salesVolume": 54
     },
     {
       "id": 57,
@@ -625,7 +681,8 @@
       "category": "clothes",
       "modelNumber": "CW2349",
       "releaseDate": "0",
-      "image": "https://img.soldout.co.kr/external_image/2022/11/10/b5c98a57-717d-4ab1-a44a-b932f2e8c870.jpg/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/external_image/2022/11/10/b5c98a57-717d-4ab1-a44a-b932f2e8c870.jpg/soldout/resize/564x564/optimize",
+      "salesVolume": 54
     },
     {
       "id": 58,
@@ -636,7 +693,8 @@
       "category": "shoes",
       "modelNumber": "DH7004-100",
       "releaseDate": "20220225",
-      "image": "https://img.soldout.co.kr/items/2023/02/01/b066e2c8-e785-4321-9adc-b730784594f8.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/02/01/b066e2c8-e785-4321-9adc-b730784594f8.png/soldout/resize/564x564/optimize",
+      "salesVolume": 43
     },
     {
       "id": 59,
@@ -647,7 +705,8 @@
       "category": "shoes",
       "modelNumber": "DV1309-100",
       "releaseDate": "20230126",
-      "image": "https://img.soldout.co.kr/items/2023/02/01/417ba79a-c52a-46f6-b881-50bfc30658e9.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/02/01/417ba79a-c52a-46f6-b881-50bfc30658e9.png/soldout/resize/564x564/optimize",
+      "salesVolume": 54
     },
     {
       "id": 60,
@@ -658,7 +717,8 @@
       "category": "shoes",
       "modelNumber": "DO9369-101",
       "releaseDate": "20220915",
-      "image": "https://img.soldout.co.kr/items/2023/01/02/3b4f4297-3335-4290-b882-75fa0ffffc98.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/01/02/3b4f4297-3335-4290-b882-75fa0ffffc98.png/soldout/resize/564x564/optimize",
+      "salesVolume": 21
     },
     {
       "id": 61,
@@ -669,7 +729,8 @@
       "category": "clothes",
       "modelNumber": "-",
       "releaseDate": "20221219",
-      "image": "https://img.soldout.co.kr/items/2022/12/13/1d8ecd13-5c54-4d39-a008-985329f421ca.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/12/13/1d8ecd13-5c54-4d39-a008-985329f421ca.png/soldout/resize/564x564/optimize",
+      "salesVolume": 43
     },
     {
       "id": 62,
@@ -680,7 +741,8 @@
       "category": "clothes",
       "modelNumber": "-",
       "releaseDate": "20221219",
-      "image": "https://img.soldout.co.kr/items/2022/12/13/05cbc519-3a2c-450e-be6a-cbd5abcc1e28.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/12/13/05cbc519-3a2c-450e-be6a-cbd5abcc1e28.png/soldout/resize/564x564/optimize",
+      "salesVolume": 56
     },
     {
       "id": 63,
@@ -691,7 +753,8 @@
       "category": "acc",
       "modelNumber": "-",
       "releaseDate": "20221017",
-      "image": "https://img.soldout.co.kr/items/2022/10/13/0b3b010e-cbaa-4c05-9e2b-630c67ca306a.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/10/13/0b3b010e-cbaa-4c05-9e2b-630c67ca306a.png/soldout/resize/564x564/optimize",
+      "salesVolume": 2111
     },
     {
       "id": 64,
@@ -702,7 +765,8 @@
       "category": "tech",
       "modelNumber": "WH-1000XM5",
       "releaseDate": "20220613",
-      "image": "https://img.soldout.co.kr/items/2022/05/26/35c412f9-7cfa-47a2-b931-74a31d18a6c1.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/05/26/35c412f9-7cfa-47a2-b931-74a31d18a6c1.png/soldout/resize/564x564/optimize",
+      "salesVolume": 32
     },
     {
       "id": 65,
@@ -713,7 +777,8 @@
       "category": "tech",
       "modelNumber": "WH-1000XM5",
       "releaseDate": "20220613",
-      "image": "https://img.soldout.co.kr/items/2022/05/26/461581aa-827e-49bd-8295-8fe2ae8a3394.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/05/26/461581aa-827e-49bd-8295-8fe2ae8a3394.png/soldout/resize/564x564/optimize",
+      "salesVolume": 1
     },
     {
       "id": 66,
@@ -724,7 +789,8 @@
       "category": "tech",
       "modelNumber": "SM-R510NZWAKOO",
       "releaseDate": "20220810",
-      "image": "https://img.soldout.co.kr/items/2023/02/23/8bd44adb-e332-4764-8195-4db96c56d47e.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2023/02/23/8bd44adb-e332-4764-8195-4db96c56d47e.png/soldout/resize/564x564/optimize",
+      "salesVolume": 21
     },
     {
       "id": 67,
@@ -735,7 +801,8 @@
       "category": "tech",
       "modelNumber": "SM-F721NAWZKOO",
       "releaseDate": "20221201",
-      "image": "https://img.soldout.co.kr/items/2022/11/29/dcfd7bb0-ece9-4232-a5b6-7ec7ef828056.png/soldout/resize/564x564/optimize"
+      "image": "https://img.soldout.co.kr/items/2022/11/29/dcfd7bb0-ece9-4232-a5b6-7ec7ef828056.png/soldout/resize/564x564/optimize",
+      "salesVolume": 333
     }
   ]
 }
